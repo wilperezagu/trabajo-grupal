@@ -1,0 +1,1 @@
+console.log('Hola me llamo angie soy una desarrolladora full stack junior y tecnologa de adsi')
